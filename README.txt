@@ -1,2 +1,1 @@
-"Hello, Git"
-Hello, again
+Git fundamentals pluralsight project.
