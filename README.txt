@@ -1,1 +1,1 @@
-remote and vim
+remote and vimFeature 1 
